@@ -1,0 +1,12 @@
+
+{
+    "geode": "v5.11.2",
+    "gd": {
+        "android": "2.2081"
+    },
+    "id": "alexlab.alexgd",
+    "name": "AlexGD",
+    "version": "v1.0.0",
+    "developer": "AlexLaB",
+    "description": "Custom purple orb and rare blue coin."
+}
